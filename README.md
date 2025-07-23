@@ -30,7 +30,7 @@ StyleFleet is a MERN stack platform for buying and renting clothes. It supports 
 1. **Clone the repository:**
    ```sh
    git clone <repo-url>
-   cd mern-ecommerce
+   cd stylefleet
    ```
 2. **Install dependencies:**
    ```sh
