@@ -1,4 +1,4 @@
-# StyleFleet (Cloth Rental Platform)
+ # StyleFleet (Cloth Rental Platform)
 
 StyleFleet is a MERN stack platform for buying and renting clothes. It supports both traditional purchases and a flexible rental system for fashion items.
 
