@@ -18,7 +18,7 @@ StyleFleet is a MERN stack platform for buying and renting clothes. It supports 
 ## Tech Stack
 - **Frontend:** React, Vite, Tailwind CSS
 - **Backend:** Node.js, Express, MongoDB (Mongoose)
-- **Payments:** Stripe
+- **Payments:** Stripe   
 
 ## Getting Started
 
